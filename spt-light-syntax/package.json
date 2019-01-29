@@ -1,0 +1,15 @@
+{
+  "name": "spt-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "my personal semi light atom syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/spt-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
